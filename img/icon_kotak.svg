@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11 11" width="11" height="11">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+	</style>
+	<g id="top.jpg">
+		<g id="footer">
+			<path id="長方形 3 のコピー" class="shp0" d="M10 8L8 8L8 10L8 11L7 11L1 11L0 11L0 10L0 4L0 3L1 3L3 3L3 1L3 0L4 0L10 0L11 0L11 1L11 7L11 8L10 8ZM3 8L3 7L3 4L1 4L1 10L7 10L7 8L4 8L3 8ZM10 1L4 1L4 3L4 4L4 7L7 7L8 7L10 7L10 1Z" />
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 27 11" width="27" height="11">
+	<defs>
+		<image width="27" height="12" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAMCAYAAACTB8Z2AAAAQklEQVQ4je3NUQmAMBQAwEUwkhmWYGtg00VYlPNL8EcQpg7kXYFLKZwgY/sqO7wfokY4N8SCgm7cdYgV7YHkXvhLO9JO8MuBKcwzAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="top.jpg">
+		<g id="PROJECTSTORY">
+			<use id="シェイプ 5 のコピー 11" href="#img1" transform="matrix(1,0,0,1,0,-1)"/>
+		</g>
+	</g>
+</svg>
